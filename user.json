@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "email": "chetanayagoyal2007@gmail.com",
+      "displayName": null,
+      "mobileNumber": "",
+      "isVerified": true,
+      "isAdmin": false,
+      "isSuspended": false,
+      "createdAt": "2025-03-30T15:33:04.597Z"
+    },
+    {
+      "id": 3,
+      "email": "vinayakdhiman1140@gmail.com",
+      "displayName": null,
+      "mobileNumber": "",
+      "isVerified": true,
+      "isAdmin": false,
+      "isSuspended": false,
+      "createdAt": "2025-03-30T08:24:07.400Z"
+    },
+    {
+      "id": 2,
+      "email": "vinayakdhimanofficial@gmail.com",
+      "displayName": null,
+      "mobileNumber": "",
+      "isVerified": true,
+      "isAdmin": false,
+      "isSuspended": false,
+      "createdAt": "2025-03-30T07:52:05.419Z"
+    },
+    {
+      "id": 1,
+      "email": "vinayak.dhiman.012@gmail.com",
+      "displayName": "Vinayak Dhiman",
+      "mobileNumber": "",
+      "isVerified": true,
+      "isAdmin": true,
+      "isSuspended": false,
+      "createdAt": "2025-03-30T06:40:30.319Z"
+    }
+  ],
+  "userPreferences": [
+    null,
+    null,
+    {
+      "id": 2,
+      "userId": 2,
+      "emailNotifications": true,
+      "orderUpdates": true,
+      "promotions": false,
+      "accountAlerts": true,
+      "darkMode": false,
+      "language": "en",
+      "currency": "inr"
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "emailNotifications": true,
+      "orderUpdates": true,
+      "promotions": true,
+      "accountAlerts": true,
+      "darkMode": false,
+      "language": "en",
+      "currency": "inr"
+    }
+  ],
+  "userAddresses": [
+    [],
+    [],
+    [],
+    []
+  ]
+}
